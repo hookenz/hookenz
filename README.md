@@ -4,7 +4,7 @@
 ### A developer from New Zealand.
 
 ### Connect with me:
-<a href="https://stackoverflow.com/users/3496352" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="3496352" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/134702" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="134702" height="30" width="40" /></a>
 
 ### Languages and Tools:
 
