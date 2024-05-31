@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Matt</h1>
-<h3 align="center">A passionate developer from New Zealand</h3>
+<h3 align="center">A passionate software developer from New Zealand</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hookenz&label=Profile%20views&color=0e75b6&style=flat" alt="hookenz" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hookenz" alt="hookenz" /></a> </p>
 
-- 🔭 I’m currently working on [portainer](http://portainer.io)
+- 🔭 I’m currently working on [Portainer](http://portainer.io), a container management platform.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
