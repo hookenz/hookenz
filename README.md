@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hookenz" alt="hookenz" /></a> </p>
 
-- 🔭 I’m currently working on [Portainer](http://portainer.io), a container management platform for docker, kubernetes and edge environments.
+- 🔭 I’m currently working on [Portainer](http://portainer.io), a container management platform for docker, kubernetes and edge environments.  [hmake](http://github.com/hookenz/hmake), a pure go make clone with built in scripting.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
