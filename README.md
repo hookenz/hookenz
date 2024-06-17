@@ -7,7 +7,7 @@
 
 - I’m currently working on [Portainer](https://github.com/portainer/portainer), a container management platform for docker, kubernetes and edge environments.  
 - [hmake](http://github.com/hookenz/hmake), a pure go make clone with built in scripting.
-- [template](http://github.com/hookenz/template), an opinionated go + react + typescript + tailwind + shadcn default project
+- [template](http://github.com/hookenz/template), an opinionated go + react + typescript + tailwind + shadcn default project template
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
