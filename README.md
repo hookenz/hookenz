@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hookenz" alt="hookenz" /></a> </p>
 
 - I’m currently working on [Portainer](https://github.com/portainer/portainer), a container management platform for docker, kubernetes and edge environments. 
-- [Linux CLI Challenge Project] https://github.com/hookenz/linux-cli-challenge 
+- [Linux CLI Challenge Project](https://github.com/hookenz/linux-cli-challenge), a community challenge project to build linux cli tools in any language
 - [hmake](http://github.com/hookenz/hmake), a pure go make clone with built in scripting.
 - [template](http://github.com/hookenz/template), an opinionated go + react + typescript + tailwind + shadcn default project template
 
