@@ -5,7 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hookenz" alt="hookenz" /></a> </p>
 
-- I’m currently working on [Linux CLI Challenge Project](https://github.com/hookenz/linux-cli-challenge), a community challenge project to build linux cli tools in any language
+- I’m currently working on [gotailwind][https://github.com/hookenz/gotailwind], a `go tool` wrapper for tailwindcss to allow easy tailwindcss use within go projects.
+- [Linux CLI Challenge Project](https://github.com/hookenz/linux-cli-challenge), a community challenge project to build linux cli tools in any language
 - [hmake](http://github.com/hookenz/hmake), a pure go make clone with built in scripting.
 - [template](http://github.com/hookenz/template), an opinionated go + react + typescript + tailwind + shadcn default project template
 
